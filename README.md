@@ -9,7 +9,7 @@
 
 [![Live Website](https://img.shields.io/badge/🌐_مشاهده_وب‌سایت_رسمی-کلیک_کنید-059669?style=for-the-badge&logo=googlechrome&logoColor=white)](https://roozaneh.github.io/kharid-vpn-filter-shekan/)
 [![Telegram Bot](https://img.shields.io/badge/ربات_رسمی_خرید_و_تست-@RoozanehNetBot-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RoozanehNetBot?start=gh_vpn)
-[![Support](https://img.shields.io/badge/پشتیبانی_۲۴_ساعته-آنلاین-brightgreen?style=for-the-badge)](https://t.me/RozanehaiSupportBot)
+[![Support](https://img.shields.io/badge/پشتیبانی_۲۴_ساعته-آنلاین-brightgreen?style=for-the-badge)](https://t.me/RoozanehHelp)
 [![Channel](https://img.shields.io/badge/کانال_رسمی_اطلاع‌رسانی-@RoozanehNet-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/RoozanehNet)
 [![Uptime](https://img.shields.io/badge/پایداری_شبکه-۹۹.۹۸%25-orange?style=for-the-badge)]()
 [![Updated](https://img.shields.io/badge/بروزرسانی-نوامبر_۲۰۲۶-blueviolet?style=for-the-badge)]()
@@ -209,7 +209,7 @@
 
 <details>
 <summary><b>۳. در صورت بروز اختلال در اینترنت چه اقدامی انجام دهم؟</b></summary>
-سرویس‌های روزنه نت از لینک‌های سابسکریپشن خودکار استفاده می‌کنند. در صورت بروز هرگونه اختلال فیلترینگ، سرورهای جدید به صورت خودکار جایگزین می‌شوند. همچنین پشتیبانی ۲۴ ساعته روزنه نت در [ربات پشتیبانی <bdi>@RozanehaiSupportBot</bdi>](https://t.me/RozanehaiSupportBot) پاسخگوی شماست.
+سرویس‌های روزنه نت از لینک‌های سابسکریپشن خودکار استفاده می‌کنند. در صورت بروز هرگونه اختلال فیلترینگ، سرورهای جدید به صورت خودکار جایگزین می‌شوند. همچنین پشتیبانی ۲۴ ساعته روزنه نت در [ربات پشتیبانی <bdi>@RoozanehHelp</bdi>](https://t.me/RoozanehHelp) پاسخگوی شماست.
 </details>
 
 <details>
@@ -223,7 +223,7 @@
 
 * 🤖 **ربات رسمی سفارش، خرید و تست رایگان:** [<bdi>@RoozanehNetBot</bdi>](https://t.me/RoozanehNetBot?start=gh_vpn)
 * 📢 **کانال اطلاع‌رسانی و وضعیت سرورها:** [<bdi>@RoozanehNet</bdi>](https://t.me/RoozanehNet)
-* 💬 **پشتیبانی فنی و ارتباط با ادمین:** [<bdi>@RozanehaiSupportBot</bdi>](https://t.me/RozanehaiSupportBot)
+* 💬 **پشتیبانی فنی و ارتباط با ادمین:** [<bdi>@RoozanehHelp</bdi>](https://t.me/RoozanehHelp)
 * 🌐 **پرتال رسمی گیت‌هاب پیج:** [<bdi>roozaneh.github.io</bdi>](https://roozaneh.github.io/)
 
 </div>
