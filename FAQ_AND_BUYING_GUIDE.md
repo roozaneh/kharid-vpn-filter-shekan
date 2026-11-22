@@ -5,7 +5,7 @@
 > این راهنمای تخصصی برای کاربرانی تدوین شده است که به دنبال انتخاب پایدارترین، پرسرعت‌ترین و امن‌ترین لوکیشن‌های سرور VPN، کانفیگ اختصاصی V2Ray و فیلتر شکن بدون قطعی هستند.
 
 [![Telegram Bot](https://img.shields.io/badge/ربات_رسمی-@RoozanehNetBot-blue?style=for-the-badge&logo=telegram)](https://t.me/RoozanehNetBot)
-[![Support](https://img.shields.io/badge/پشتیبانی_۲۴_ساعته-فعال-brightgreen?style=for-the-badge)](https://t.me/RozanehaiSupportBot)
+[![Support](https://img.shields.io/badge/پشتیبانی_۲۴_ساعته-فعال-brightgreen?style=for-the-badge)](https://t.me/RoozanehHelp)
 
 ---
 
@@ -74,6 +74,6 @@
 ### 🌐 کانال‌های ارتباطی رسمی روزنه نت:
 * 🤖 **ربات خرید و تست رایگان:** [@RoozanehNetBot](https://t.me/RoozanehNetBot)
 * 📢 **کانال اطلاع‌رسانی:** [@RoozanehNet](https://t.me/RoozanehNet)
-* 💬 **پشتیبانی فنی:** [@RozanehaiSupportBot](https://t.me/RozanehaiSupportBot)
+* 💬 **پشتیبانی فنی:** [@RoozanehHelp](https://t.me/RoozanehHelp)
 
 </div>
