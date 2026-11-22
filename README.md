@@ -7,6 +7,7 @@
 > **«روزنه‌ای پایدار، امن و بدون مرز به اینترنت آزاد بین‌الملل»**  
 > مجهز به سرورهای اختصاصی ۱۰ گیگابیت آمستردام هلند و فرانکفورت آلمان، معماری تانل دو لایه شیلد ایران، فناوری ضد فیلترینگ تهاجمی (<bdi>DPI</bdi>) و سازگاری ۱۰۰٪ با اپراتورهای **همراه اول، ایرانسل، رایتل، مخابرات، شاتل و زیتل**.
 
+[![Live Website](https://img.shields.io/badge/🌐_مشاهده_وب‌سایت_رسمی-کلیک_کنید-059669?style=for-the-badge&logo=googlechrome&logoColor=white)](https://roozaneh.github.io/kharid-vpn-filter-shekan/)
 [![Telegram Bot](https://img.shields.io/badge/ربات_رسمی_خرید_و_تست-@RoozanehNetBot-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RoozanehNetBot?start=gh_vpn)
 [![Support](https://img.shields.io/badge/پشتیبانی_۲۴_ساعته-آنلاین-brightgreen?style=for-the-badge)](https://t.me/RozanehaiSupportBot)
 [![Channel](https://img.shields.io/badge/کانال_رسمی_اطلاع‌رسانی-@RoozanehNet-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/RoozanehNet)
@@ -14,6 +15,12 @@
 [![Updated](https://img.shields.io/badge/بروزرسانی-نوامبر_۲۰۲۶-blueviolet?style=for-the-badge)]()
 
 ---
+
+
+> [!NOTE]
+> 🌐 **شبکه وب‌سایت‌های لایو روزنه نت (<bdi>Live Web Network</bdi>):**  
+> [🛍️ وب‌سایت خرید VPN و تست](https://roozaneh.github.io/kharid-vpn-filter-shekan/) • [📡 وب‌سایت کانفیگ‌های ایران](https://roozaneh.github.io/v2ray-configs-iran/) • [🛡️ وب‌سایت تانل اینترنت ملی](https://roozaneh.github.io/iran-tunnel-v2ray-netmeli/) • [📲 وب‌سایت دانلود نرم‌افزارها](https://roozaneh.github.io/v2ray-clients-download/)
+
 
 ### ⚡ شروع سریع در ۳ مرحله آسان (اتصال در کمتر از ۳۰ ثانیه):
 <kbd> ۱. دانلود کلاینت سازگار </kbd> ➔ <kbd> ۲. دریافت ۲ تا ۳ گیگابایت تست رایگان </kbd> ➔ <kbd> ۳. اتصال پرسرعت و امن </kbd>
