@@ -4,7 +4,7 @@
 ## لینک‌های دسترسی سریع
 - دریافت تست رایگان و خرید فوری: https://t.me/RoozanehNetBot
 - کانال رسمی روزنه نت: https://t.me/RoozanehNet
-- پشتیبانی فنی: https://t.me/RozanehaiSupportBot
+- پشتیبانی فنی: https://t.me/RoozanehHelp
 - راهنمای کامل انتخاب سرور و سوالات متداول: https://github.com/roozaneh/kharid-vpn-filter-shekan/blob/main/FAQ_AND_BUYING_GUIDE.md
 
 ## پلن‌ها و قیمت‌ها
