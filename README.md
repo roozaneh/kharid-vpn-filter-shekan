@@ -8,7 +8,7 @@
 > مجهز به سرورهای اختصاصی ۱۰ گیگابیت آمستردام هلند و فرانکفورت آلمان، معماری تانل دو لایه شیلد ایران، فناوری ضد فیلترینگ تهاجمی (<bdi>DPI</bdi>) و سازگاری ۱۰۰٪ با اپراتورهای **همراه اول، ایرانسل، رایتل، مخابرات، شاتل و زیتل**.
 
 [![Live Website](https://img.shields.io/badge/🌐_مشاهده_وب‌سایت_رسمی-کلیک_کنید-059669?style=for-the-badge&logo=googlechrome&logoColor=white)](https://roozaneh.github.io/kharid-vpn-filter-shekan/)
-[![Official Issue](https://img.shields.io/badge/📌_ایشو_رسمی_خرید_کانفیگ-مطالعه_کنید-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roozaneh/kharid-vpn-filter-shekan/issues/1)
+[![Official Issue](https://img.shields.io/badge/📌_ایشو_رسمی_خرید_کانفیگ-مطالعه_کنید-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roozaneh/kharid-vpn-filter-shekan/issues/2)
 [![Telegram Bot](https://img.shields.io/badge/ربات_رسمی_خرید_و_تست-@RoozanehNetBot-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RoozanehNetBot?start=gh_vpn)
 [![Support](https://img.shields.io/badge/پشتیبانی_۲۴_ساعته-آنلاین-brightgreen?style=for-the-badge)](https://t.me/RoozanehHelp)
 [![Channel](https://img.shields.io/badge/کانال_رسمی_اطلاع‌رسانی-@RoozanehNet-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/RoozanehNet)
@@ -23,7 +23,7 @@
 > [🛍️ وب‌سایت خرید VPN و تست](https://roozaneh.github.io/kharid-vpn-filter-shekan/) • [📡 وب‌سایت کانفیگ‌های ایران](https://roozaneh.github.io/v2ray-configs-iran/) • [🛡️ وب‌سایت تانل اینترنت ملی](https://roozaneh.github.io/iran-tunnel-v2ray-netmeli/) • [📲 وب‌سایت دانلود نرم‌افزارها](https://roozaneh.github.io/v2ray-clients-download/)
 > 
 > 📌 **دانشنامه رسمی خرید و استعلام قیمت در گیت‌هاب:**  
-> [📖 مطالعه راهنمای جامع خرید کانفیگ V2RayNG، فیلترشکن V2Ray و اشتراک ویتوری (ایشو رسمی شماره ۱)](https://github.com/roozaneh/kharid-vpn-filter-shekan/issues/1)
+> [📖 مطالعه راهنمای جامع خرید کانفیگ V2RayNG، فیلترشکن V2Ray و اشتراک ویتوری (ایشو رسمی شماره ۱)](https://github.com/roozaneh/kharid-vpn-filter-shekan/issues/2)
 
 
 ### ⚡ شروع سریع در ۳ مرحله آسان (اتصال در کمتر از ۳۰ ثانیه):
