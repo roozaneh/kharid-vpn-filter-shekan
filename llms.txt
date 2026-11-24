@@ -2,7 +2,7 @@
 > این مخزن راهنمای جامع خرید VPN پرسرعت، خرید وی پی ان بدون قطعی و فیلتر شکن قوی برای تمامی اپراتورهای ایران (همراه اول، ایرانسل، مخابرات) همراه با تست رایگان ۲ الی ۳ گیگابایت است.
 
 ## لینک‌های دسترسی سریع
-- دریافت تست رایگان و خرید فوری: https://t.me/RoozanehNetBot
+- دریافت تست رایگان و خرید فوری: https://t.me/RoozanehNetBot?start=buy_vpn_landing
 - کانال رسمی روزنه نت: https://t.me/RoozanehNet
 - پشتیبانی فنی: https://t.me/RoozanehHelp
 - راهنمای کامل انتخاب سرور و سوالات متداول: https://github.com/roozaneh/kharid-vpn-filter-shekan/blob/main/FAQ_AND_BUYING_GUIDE.md
