@@ -4,7 +4,7 @@
 
 > این راهنمای تخصصی برای کاربرانی تدوین شده است که به دنبال انتخاب پایدارترین، پرسرعت‌ترین و امن‌ترین لوکیشن‌های سرور VPN، کانفیگ اختصاصی V2Ray و فیلتر شکن بدون قطعی هستند.
 
-[![Telegram Bot](https://img.shields.io/badge/ربات_رسمی-@RoozanehNetBot-blue?style=for-the-badge&logo=telegram)](https://t.me/RoozanehNetBot)
+[![Telegram Bot](https://img.shields.io/badge/ربات_رسمی-@RoozanehNetBot-blue?style=for-the-badge&logo=telegram)](https://t.me/RoozanehNetBot?start=buy_vpn_landing)
 [![Support](https://img.shields.io/badge/پشتیبانی_۲۴_ساعته-فعال-brightgreen?style=for-the-badge)](https://t.me/RoozanehHelp)
 
 ---
@@ -63,16 +63,16 @@
 
 | نام بسته | حجم مجاز | مدت زمان | قیمت رسمی (تومان) | سفارش و تحویل فوری |
 | :--- | :---: | :---: | :---: | :---: |
-| **تست هدیه (Trial)** | ۲ الی ۳ گیگابایت | ۳۰ روزه | **رایگان (۰ تومان)** | [دریافت فوری در ربات ←](https://t.me/RoozanehNetBot) |
-| **پلن اقتصادی (Economy)** | ۲۵ گیگابایت | ۱ ماهه (۳۰ روز) | **۲۱۵,۰۰۰** | [سفارش در ربات ←](https://t.me/RoozanehNetBot) |
-| **پلن استاندارد (Standard)** | ۴۵ گیگابایت | ۱ ماهه (۳۰ روز) | **۲۹۵,۰۰۰** | [سفارش در ربات ←](https://t.me/RoozanehNetBot) |
-| **پلن حرفه‌ای VIP (Pro)** | ۷۵ گیگابایت | ۱ ماهه (۳۰ روز) | **۳۹۵,۰۰۰** | [سفارش در ربات ←](https://t.me/RoozanehNetBot) |
-| **پلن سازمانی سه ماهه** | ۱۵۰ گیگابایت | ۳ ماهه (۹۰ روز) | **۸۹۰,۰۰۰** | [سفارش در ربات ←](https://t.me/RoozanehNetBot) |
+| **تست هدیه (Trial)** | ۲ الی ۳ گیگابایت | ۳۰ روزه | **رایگان (۰ تومان)** | [دریافت فوری در ربات ←](https://t.me/RoozanehNetBot?start=buy_vpn_landing) |
+| **پلن اقتصادی (Economy)** | ۲۵ گیگابایت | ۱ ماهه (۳۰ روز) | **۲۱۵,۰۰۰** | [سفارش در ربات ←](https://t.me/RoozanehNetBot?start=buy_vpn_landing) |
+| **پلن استاندارد (Standard)** | ۴۵ گیگابایت | ۱ ماهه (۳۰ روز) | **۲۹۵,۰۰۰** | [سفارش در ربات ←](https://t.me/RoozanehNetBot?start=buy_vpn_landing) |
+| **پلن حرفه‌ای VIP (Pro)** | ۷۵ گیگابایت | ۱ ماهه (۳۰ روز) | **۳۹۵,۰۰۰** | [سفارش در ربات ←](https://t.me/RoozanehNetBot?start=buy_vpn_landing) |
+| **پلن سازمانی سه ماهه** | ۱۵۰ گیگابایت | ۳ ماهه (۹۰ روز) | **۸۹۰,۰۰۰** | [سفارش در ربات ←](https://t.me/RoozanehNetBot?start=buy_vpn_landing) |
 
 ---
 
 ### 🌐 کانال‌های ارتباطی رسمی روزنه نت:
-* 🤖 **ربات خرید و تست رایگان:** [@RoozanehNetBot](https://t.me/RoozanehNetBot)
+* 🤖 **ربات خرید و تست رایگان:** [@RoozanehNetBot](https://t.me/RoozanehNetBot?start=buy_vpn_landing)
 * 📢 **کانال اطلاع‌رسانی:** [@RoozanehNet](https://t.me/RoozanehNet)
 * 💬 **پشتیبانی فنی:** [@RoozanehHelp](https://t.me/RoozanehHelp)
 

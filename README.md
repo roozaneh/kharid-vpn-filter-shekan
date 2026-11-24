@@ -9,7 +9,7 @@
 
 [![Live Website](https://img.shields.io/badge/🌐_مشاهده_وب‌سایت_رسمی-کلیک_کنید-059669?style=for-the-badge&logo=googlechrome&logoColor=white)](https://roozaneh.github.io/kharid-vpn-filter-shekan/)
 [![Official Issue](https://img.shields.io/badge/📌_ایشو_رسمی_خرید_کانفیگ-مطالعه_کنید-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roozaneh/kharid-vpn-filter-shekan/issues/2)
-[![Telegram Bot](https://img.shields.io/badge/ربات_رسمی_خرید_و_تست-@RoozanehNetBot-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RoozanehNetBot?start=gh_vpn)
+[![Telegram Bot](https://img.shields.io/badge/ربات_رسمی_خرید_و_تست-@RoozanehNetBot-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RoozanehNetBot?start=buy_vpn_landing)
 [![Support](https://img.shields.io/badge/پشتیبانی_۲۴_ساعته-آنلاین-brightgreen?style=for-the-badge)](https://t.me/RoozanehHelp)
 [![Channel](https://img.shields.io/badge/کانال_رسمی_اطلاع‌رسانی-@RoozanehNet-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/RoozanehNet)
 [![Uptime](https://img.shields.io/badge/پایداری_شبکه-۹۹.۹۸%25-orange?style=for-the-badge)]()
@@ -29,7 +29,7 @@
 ### ⚡ شروع سریع در ۳ مرحله آسان (اتصال در کمتر از ۳۰ ثانیه):
 <kbd> ۱. دانلود کلاینت سازگار </kbd> ➔ <kbd> ۲. دریافت ۲ تا ۳ گیگابایت تست رایگان </kbd> ➔ <kbd> ۳. اتصال پرسرعت و امن </kbd>
 
-**[🎁 برای دریافت آنی ۲ الی ۳ گیگابایت کانفیگ تست رایگان روزنه نت اینجا کلیک کنید ←](https://t.me/RoozanehNetBot?start=gh_vpn)**
+**[🎁 برای دریافت آنی ۲ الی ۳ گیگابایت کانفیگ تست رایگان روزنه نت اینجا کلیک کنید ←](https://t.me/RoozanehNetBot?start=buy_vpn_landing)**
 
 </div>
 </div>
@@ -39,7 +39,7 @@
 > [!TIP]
 > **🎁 تست رایگان قبل از خرید (<bdi>Risk-Free Trial</bdi>):**  
 > برای اینکه با خیال راحت کیفیت، سرعت دانلود و پایداری را روی سیم‌کارت یا اینترنت وای‌فای خود بررسی کنید، بدون پرداخت هزینه، **۲ الی ۳ گیگابایت ترافیک هدیه تست رایگان** با سرعت کامل اختصاص داده می‌شود:  
-> 👉 **[ورود به ربات دریافت تست رایگان فوری (<bdi>@RoozanehNetBot</bdi>)](https://t.me/RoozanehNetBot?start=gh_vpn)**
+> 👉 **[ورود به ربات دریافت تست رایگان فوری (<bdi>@RoozanehNetBot</bdi>)](https://t.me/RoozanehNetBot?start=buy_vpn_landing)**
 
 > [!NOTE]
 > **🔄 ویژگی انحصاری «قانون عدم سوختن حجم مشترکین» (<bdi>Data Rollover</bdi>):**  
@@ -97,14 +97,14 @@
 | 🟣 | **بسته حرفه‌ای (<bdi>Pro VIP</bdi>)** | **۷۵ گیگابایت** | ۱ ماهه (۳۰ روز) | **۳۹۵,۰۰۰** | دانلود پرسرعت، گیمینگ با پینگ پایین، ترید و مصارف سنگین کاری |
 | 👑 | **بسته سه ماهه (<bdi>Quarterly</bdi>)** | **۱۵۰ گیگابایت** | ۳ ماهه (۹۰ روز) | **۸۹۰,۰۰۰** | به‌صرفه‌ترین قیمت به ازای هر گیگابایت بدون نیاز به تمدید مداوم |
 
-> 🛒 **خرید آنی اشتراک:** برای انتخاب پلن، صدور لینک هوشمند سابسکریپشن و پرداخت امن از طریق درگاه، مستقیم وارد **[ربات تلگرام <bdi>@RoozanehNetBot</bdi>](https://t.me/RoozanehNetBot?start=gh_vpn)** شوید.
+> 🛒 **خرید آنی اشتراک:** برای انتخاب پلن، صدور لینک هوشمند سابسکریپشن و پرداخت امن از طریق درگاه، مستقیم وارد **[ربات تلگرام <bdi>@RoozanehNetBot</bdi>](https://t.me/RoozanehNetBot?start=buy_vpn_landing)** شوید.
 
 </div>
 
 ---
 
 > [!TIP]
-> 🎁 **تست رایگان ۲ تا ۳ گیگابایت:** قبل از خرید حتماً تست بگیرید! [کلیک کنید و در ۵ ثانیه تست دریافت کنید ←](https://t.me/RoozanehNetBot?start=gh_vpn)  
+> 🎁 **تست رایگان ۲ تا ۳ گیگابایت:** قبل از خرید حتماً تست بگیرید! [کلیک کنید و در ۵ ثانیه تست دریافت کنید ←](https://t.me/RoozanehNetBot?start=buy_vpn_landing)  
 > 📥 **دانلود نرم‌افزار:** هنوز برنامه‌ای روی دستگاه خود نصب ندارید؟ [دانلود فوری از مخزن کلاینت‌ها ←](https://github.com/roozaneh/v2ray-clients-download)  
 > 📶 **تنظیمات همراه اول و ایرانسل:** برای مشاهده کانفیگ‌های اختصاصی اپراتوری [مخزن کانفیگ <bdi>V2Ray</bdi> را مشاهده کنید ←](https://github.com/roozaneh/v2ray-configs-iran)
 
@@ -118,7 +118,7 @@
 
 ### ۱. اتصال در گوشی‌های اندروید (<bdi>v2rayNG</bdi>):
 1. نرم‌افزار **<bdi>v2rayNG</bdi>** را نصب نمایید ([دانلود مستقیم <bdi>v2rayNG</bdi>](https://github.com/roozaneh/v2ray-clients-download#-آموزش-اتصال-در-اندروید-v2rayng)).
-2. وارد **[ربات <bdi>@RoozanehNetBot</bdi>](https://t.me/RoozanehNetBot?start=gh_vpn)** شوید و روی دکمه دریافت تست رایگان یا خرید اشتراک کلیک کنید.
+2. وارد **[ربات <bdi>@RoozanehNetBot</bdi>](https://t.me/RoozanehNetBot?start=buy_vpn_landing)** شوید و روی دکمه دریافت تست رایگان یا خرید اشتراک کلیک کنید.
 3. کد کانفیگ اختصاصی یا لینک سابسکریپشن دریافتی را کپی فرمایید.
 4. وارد برنامه <bdi>v2rayNG</bdi> شوید، علامت **+** بالای صفحه را لمس کنید و گزینه **<bdi>Import config from Clipboard</bdi>** را انتخاب نمایید.
 5. روی دکمه دایره‌ای پایین صفحه کلیک کنید تا متصل شوید. پینگ سرور با یک ضربه روی کارت کانفیگ سنجیده می‌شود.
@@ -159,7 +159,7 @@
 > [!TIP]
 > 🎁 **آماده دریافت تست هستید؟**  
 > همین حالا به ربات تلگرام مراجعه کنید و ۲ تا ۳ گیگابایت کانفیگ پرسرعت تست رایگان هدیه بگیرید:  
-> 👉 **[ورود به ربات <bdi>@RoozanehNetBot</bdi> برای تست رایگان](https://t.me/RoozanehNetBot?start=gh_vpn)**
+> 👉 **[ورود به ربات <bdi>@RoozanehNetBot</bdi> برای تست رایگان](https://t.me/RoozanehNetBot?start=buy_vpn_landing)**
 
 ---
 
@@ -203,7 +203,7 @@
 
 <details>
 <summary><b>۱. آیا قبل از خرید، امکان دریافت تست رایگان وجود دارد؟</b></summary>
-بله! تمامی کاربران می‌توانند بدون نیاز به پرداخت هیچ هزینه‌ای، ۲ الی ۳ گیگابایت کانفیگ تست رایگان با سرعت کامل از طریق [ربات <bdi>@RoozanehNetBot</bdi>](https://t.me/RoozanehNetBot?start=gh_vpn) دریافت و ارزیابی نمایند.
+بله! تمامی کاربران می‌توانند بدون نیاز به پرداخت هیچ هزینه‌ای، ۲ الی ۳ گیگابایت کانفیگ تست رایگان با سرعت کامل از طریق [ربات <bdi>@RoozanehNetBot</bdi>](https://t.me/RoozanehNetBot?start=buy_vpn_landing) دریافت و ارزیابی نمایند.
 </details>
 
 <details>
@@ -225,7 +225,7 @@
 
 ## 📞 راه‌های ارتباطی و پشتیبانی شبکه‌ای
 
-* 🤖 **ربات رسمی سفارش، خرید و تست رایگان:** [<bdi>@RoozanehNetBot</bdi>](https://t.me/RoozanehNetBot?start=gh_vpn)
+* 🤖 **ربات رسمی سفارش، خرید و تست رایگان:** [<bdi>@RoozanehNetBot</bdi>](https://t.me/RoozanehNetBot?start=buy_vpn_landing)
 * 📢 **کانال اطلاع‌رسانی و وضعیت سرورها:** [<bdi>@RoozanehNet</bdi>](https://t.me/RoozanehNet)
 * 💬 **پشتیبانی فنی و ارتباط با ادمین:** [<bdi>@RoozanehHelp</bdi>](https://t.me/RoozanehHelp)
 * 🌐 **پرتال رسمی گیت‌هاب پیج:** [<bdi>roozaneh.github.io</bdi>](https://roozaneh.github.io/)
